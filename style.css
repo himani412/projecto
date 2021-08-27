@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+    font-family: 'Cookie', cursive;
+    color:pink;
+}
+h1{
+    font-size: 50px;
+}
+a{
+    font-size: 35px;
+    background-color: red;
+   color: white;
+   padding : 1px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
